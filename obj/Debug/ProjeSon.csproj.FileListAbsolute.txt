@@ -1,0 +1,10 @@
+C:\Users\İkbal\source\repos\ProjeSon\bin\Debug\ProjeSon.exe.config
+C:\Users\İkbal\source\repos\ProjeSon\bin\Debug\ProjeSon.exe
+C:\Users\İkbal\source\repos\ProjeSon\bin\Debug\ProjeSon.pdb
+C:\Users\İkbal\source\repos\ProjeSon\obj\Debug\ProjeSon.csproj.AssemblyReference.cache
+C:\Users\İkbal\source\repos\ProjeSon\obj\Debug\ProjeSon.Form1.resources
+C:\Users\İkbal\source\repos\ProjeSon\obj\Debug\ProjeSon.Properties.Resources.resources
+C:\Users\İkbal\source\repos\ProjeSon\obj\Debug\ProjeSon.csproj.GenerateResource.cache
+C:\Users\İkbal\source\repos\ProjeSon\obj\Debug\ProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\İkbal\source\repos\ProjeSon\obj\Debug\ProjeSon.exe
+C:\Users\İkbal\source\repos\ProjeSon\obj\Debug\ProjeSon.pdb
